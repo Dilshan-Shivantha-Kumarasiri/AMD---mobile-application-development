@@ -1,0 +1,26 @@
+we can use npm as the package manager
+
+
+
+-------------file structure---------------
+package-json
+
+
+React.jsx.element ("functional component type safe")
+
+
+/////////////
+create react application 
+
+npx react-native init create-first-react-app
+
+//////////////
+use nvm for switch between the users
+
+//////////////
+can we check errors why we can't create project
+npx react-native doctor
+
+
+//////////////
+npx react-native run-android
